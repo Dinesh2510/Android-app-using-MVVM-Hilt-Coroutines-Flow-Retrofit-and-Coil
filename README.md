@@ -20,11 +20,6 @@ This is a demo app built using 'Hilt' a new dependency injection framework & Kot
 - []() -  A flow is conceptually a stream of data that can be computed asynchronously.
 
 
-## Project structure
-This is the project structure using [***HILT (Dependency injection)***](https://developer.android.com/training/dependency-injection/hilt-jetpack) &  [***Kotlin Flow***](https://developer.android.com/kotlin/flow) library.
-
-![](https://github.com/iambaljeet/JetPackHiltDemo/blob/master/art/folder_structure.PNG)
-
 ## Architecture
 This app uses [***MVVM (Model View View-Model)***](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
 
